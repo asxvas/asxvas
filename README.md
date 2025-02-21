@@ -4,7 +4,7 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 ## 🔧 Skills & Expertise
 - **Skript (Advanced)** – Extreamly Comfortable in Skript with various addons (e.g., Skript-Reflect, MongoSK, DiSky).
 - **Java (Intermediate)** – Experience with Bukkit plugin development and Fabric Mod Development.
-- **Minecraft Server Development** – Custom mechanics, optimizations and  Intriguing ideas.
+- **Minecraft Server Development** – Custom mechanics Experience with Software such as Pterodactyl, optimizations and Intriguing ideas.
 - **Python (Intermediate)** - Experience with libraries such as PyCord, Discord.py and Pandas.
 
 ## 🏗️ Projects

@@ -24,6 +24,9 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 - DiSky
 - Skript-Gui
 
+## 🧠 Projects I am Currently Working on
+- None
+
 ## 📬 Contact & Links
 - [**GitHub**](https://github.com/asxvas)
 - [**Discord**](https://discordapp.com/users/829710373996986408)

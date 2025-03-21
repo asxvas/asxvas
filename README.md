@@ -26,7 +26,7 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 - Skript-Gui
 
 ## 🧠 Projects I am Currently Working on
-- None
+- **Minecraft Macro Detection Plugin**
 
 ## 📬 Contact & Links
 - [**GitHub**](https://github.com/asxvas)

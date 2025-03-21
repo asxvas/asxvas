@@ -32,4 +32,7 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 - [**GitHub**](https://github.com/asxvas)
 - [**Discord**](https://discordapp.com/users/829710373996986408)
 
+## ⌚Availability
+- **Weekdays** - 3pm-9pm
+- **Weekends** - 10am-10pm
 ---

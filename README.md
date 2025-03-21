@@ -10,7 +10,6 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 ## 🏗️ Projects
 ### **🔹 Skript Creations**
 - **Simple Warp System** – *This is a simple yet effective player warps solution, it allowes an admin to create / delete warps that only those with a desired permission can use!* You can find more information [here](https://github.com/asxvas/Warp-System)
-- **Player Data Solution With MongoSK** – *This system will store player data such as Kills, Deaths, KDA, Kill Streak and many more so that it can be access from another server or platform!* You can find more information [here](https://github.com/asxvas/Player-Data-System)
 - **Dropboxes** - *This is a simple yet effective drop box solution, you can customize almost anything using this!* You can find more information [here](https://github.com/asxvas/dropBox)
 
 ### **🔹 Java Plugins**

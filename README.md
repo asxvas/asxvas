@@ -6,6 +6,7 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 - **Java (Intermediate)** – Experience with Bukkit plugin development, using JDa to create Disocrd bots and Fabric Mod Development.
 - **Minecraft Server Development** – Custom mechanics, Experience with Software such as Pterodactyl, optimizations and Intriguing ideas.
 - **Python (Intermediate)** - Experience with libraries such as PyCord, Discord.py and Pandas.
+- **Javascript (Intermediate)** - Experience libraries such as React.
 
 ## 🏗️ Projects
 ### **🔹 Skript Creations**
@@ -42,6 +43,7 @@ Hi! I'm asxv, a passionate **Minecraft Developer** with extensive experience in 
 - Amsbox
 - Boxdoom
 - Cleanbox
+- LeapMC
 - Mylr
 - Meekgens
 - Countless Smaller Servers
